@@ -1,0 +1,12 @@
+How to compresss Udemy Files:
+-----------------------------
+
+~Download JPG file from Udemy
+
+~Take screenshot of JPG with LightShot and save as PNG
+
+~Take into Photshop and crop & compress
+
+~Go to https://compresspng.com/ and compress again
+
+!!!!!!!
